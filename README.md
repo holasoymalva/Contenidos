@@ -26,9 +26,9 @@ Recuerda que el crecimiento en Twitter puede tomar tiempo y esfuerzo, pero con c
 ### 100 ideas de contenido valioso que puedes postear en Twitter:
 
 
-- [ ] Consejos prácticos sobre cómo mejorar tus habilidades en programación.
+- [x] Consejos prácticos sobre cómo mejorar tus habilidades en programación.
 
-- [ ] Compartir recursos útiles, como tutoriales, herramientas, bibliotecas y frameworks.
+- [x] Compartir recursos útiles, como tutoriales, herramientas, bibliotecas y frameworks.
 
 - [ ] Compartir noticias y eventos relevantes relacionados con el mundo de la tecnología.
 
