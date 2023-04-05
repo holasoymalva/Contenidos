@@ -32,7 +32,7 @@ Recuerda que el crecimiento en Twitter puede tomar tiempo y esfuerzo, pero con c
 
 - [ ] Compartir noticias y eventos relevantes relacionados con el mundo de la tecnología.
 
-- [ ] Compartir consejos y estrategias para mejorar la productividad en el trabajo.
+- [x] Compartir consejos y estrategias para mejorar la productividad en el trabajo.
 
 - [ ] Compartir reseñas de libros sobre programación y tecnología.
 
