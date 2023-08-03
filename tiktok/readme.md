@@ -1,3 +1,5 @@
+# ¿Como conseguir un trabajo como programador jr? ¿Que es lo minimo que necesitariamos conocer?
+
 # En la mayoría de los casos, se espera que un programador tenga conocimientos en ciencias de la computación, como lo son logica, algoritmos y estructura de datos, por poner algunos ejemplos.
 
 # Es importante tener un conocimiento básico de al menos un lenguaje de programación, preferiblemente aquellos que son más demandados en la industria, como JavaScript, Python o Java.
