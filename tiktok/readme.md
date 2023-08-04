@@ -1,22 +1,18 @@
-# Preguntas de Frontend de la entrevista laboral en Globant
+# Preguntas que me hicieron en la entrevita labora del Google como programador Senior
 
-# ¿Qué es el concepto de carga asíncrona de scripts en JavaScript y cómo puede mejorar el rendimiento de una página web?
+# Podrias explicarme ¿Que pasa en el navegador cuando escribo Google.com?
 
-# Explica cómo funciona un Virtual DOM y cómo ayuda en el rendimiento de una aplicación frontend.
+# Explica cómo funciona el algoritmo de PageRank y cómo se utiliza en un motor de búsqueda.
 
-# ¿Cuál es la diferencia entre un framework y una librería en el contexto de desarrollo frontend? Proporciona ejemplos de cada uno.
+# ¿Qué son los web workers en JavaScript y cómo se pueden utilizar para mejorar el rendimiento de una aplicación web?
 
-# ¿Qué son los Web Components en HTML y cuál es su ventaja en el desarrollo frontend?
+# Un cliente necesita una aplicación de tiempo real para el seguimiento de vehículos que maneje grandes volúmenes de datos. ¿Qué tecnologías y arquitectura propondrías para el proyecto?
 
-# ¿Cómo mejorarías el rendimiento de una aplicación web utilizando técnicas de optimización de tiempo de carga y reducción de solicitudes HTTP?
+# Describe cómo optimizarías el rendimiento de una base de datos relacional con millones de registros para consultas rápidas.
 
-# ¿Qué es el patrón de diseño "Render Props" en React y cómo se implementa?
+# Cabe mencionar que estas son solo las preguntas orales de una de las 6 entrevistas que me aplicaron, dentro de cada entrevista tendremos que responder preguntas, diseñar soluciones y resolver ejercicios de programacion mientras compartimos video ypantalla y hacemos uso de un editor como Google Docs para programar.
 
-# ¿Cuál es el propósito de un Service Worker y cómo se utiliza para crear aplicaciones web progresivas (PWAs)?
-
-# Explica cómo funciona el enrutamiento en una aplicación frontend y cómo se implementa en React o Angular.
-
-# ¿Qué son los CSS-in-JS y cómo pueden beneficiar la organización del código y el rendimiento de una aplicación frontend?
+# Para prepararte para entrevistas tecnicas en Manga companies te he dejado un link de recursos gratuitos en mi bio .
 
 # .
 # .
