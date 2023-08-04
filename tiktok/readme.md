@@ -1,13 +1,19 @@
-# ¿Como conseguir un trabajo como programador jr? ¿Que es lo minimo que necesitariamos conocer?
+# Preguntas de Frontend de la entrevista laboral en Globant
 
-# En la mayoría de los casos, se espera que un programador tenga conocimientos en ciencias de la computación, como lo son logica, algoritmos y estructura de datos, por poner algunos ejemplos.
+# ¿Qué es el concepto de carga asíncrona de scripts en JavaScript y cómo puede mejorar el rendimiento de una página web?
 
-# Es importante tener un conocimiento básico de al menos un lenguaje de programación, preferiblemente aquellos que son más demandados en la industria, como JavaScript, Python o Java.
+# Explica cómo funciona un Virtual DOM y cómo ayuda en el rendimiento de una aplicación frontend.
 
-# Si te interesa el desarrollo web, es fundamental tener conocimiento de HTML, CSS y JavaScript. También es indispensable cononcer algunos de  frameworks mas populares como React, Angular o Vue.js.
+# ¿Cuál es la diferencia entre un framework y una librería en el contexto de desarrollo frontend? Proporciona ejemplos de cada uno.
 
-# Aprender a usar Git es crucial para cualquier desarrollador, ya que es ampliamente utilizado para controlar y gestionar el código fuente en proyectos, asi como saber trabajar con la terminal.
+# ¿Qué son los Web Components en HTML y cuál es su ventaja en el desarrollo frontend?
 
-# Recuerda que como programador junior, se espera que aún estés aprendiendo y adquiriendo experiencia. No temas solicitar trabajos y enfocarte en tu crecimiento profesional. Durante las entrevistas, muestra tu pasión y destaca tus proyectos personales. 
+# ¿Cómo mejorarías el rendimiento de una aplicación web utilizando técnicas de optimización de tiempo de carga y reducción de solicitudes HTTP?
 
-# Buena suerte en tu busqueda de trabajo.
+# ¿Qué es el patrón de diseño "Render Props" en React y cómo se implementa?
+
+# ¿Cuál es el propósito de un Service Worker y cómo se utiliza para crear aplicaciones web progresivas (PWAs)?
+
+# Explica cómo funciona el enrutamiento en una aplicación frontend y cómo se implementa en React o Angular.
+
+# ¿Qué son los CSS-in-JS y cómo pueden beneficiar la organización del código y el rendimiento de una aplicación frontend?
